@@ -1,8 +1,8 @@
-import { LiveCodeVR } from './engine/LiveCodeVR';
+import { Scene } from './scene/Scene';
 
 function App() {
   return (
-    <LiveCodeVR />
+    <Scene />
   );
 }
 
